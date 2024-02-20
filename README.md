@@ -7,13 +7,14 @@ Congratulations Ivory Coast, well deserved
 
 - [Tools used](#tools-used)
 
-- [Data Preparation](#data-preparation)
+- [Data Collection](#data-collection)
 
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data visualization](#data-visualization)
 
 ### Project Description
-Welcome to my AFCON Project repository.This notebook provides a comprehensive webscraping,data analysis and data visulaization of AFCON 23
+Welcome to my AFCON (African Cup of Nations) Project repository.This notebook provides a comprehensive webscraping,data analysis and data visulaization of AFCON 23.
+In this project, i explored the intricacies of football data,delving into player statistics,goalkeeper performances,match scores and group stage outcomes from the AFCON 23 tournament.
 
 ### Tools used
 -  Jupyter Notebook - Webscraping
@@ -21,7 +22,7 @@ Welcome to my AFCON Project repository.This notebook provides a comprehensive we
 -  SQL Server Microsoft Studio - Data Analysis
 -  Microsoft Power bi - Data visualization
 
-### Data Preparation
+### Data Collection
 The dataset was scraped from two websites, having followed their privacy policy,terms and conditions.
 This was performed in jupyter notebook using python 3.
 The following libaries were used:
@@ -31,7 +32,9 @@ The following libaries were used:
 -   Pandas
 
 ### Exploratory Data Analysis
-This was performed using SQL queries.Please go through the query files attached,below are some key insights
+This was performed using SQL queries. Analyzed player distributions,correlations, and performance indicators. Identified trends and insights to understand the dynamics.
+Kindly go through the sql files attached for the queries.
+Below are some key insights;
 
 Finalist: Nigeria and Ivory Coast
 
@@ -39,4 +42,5 @@ Winner: Ivory Coast
 
 
 ### Data visualization
-This was perfomed using Power bi, to visualize the queries output
+This was perfomed using Power bi, created dynamic power bi dashboards for visualizing tournament data.
+Finf attached the pbix file.
