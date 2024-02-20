@@ -43,4 +43,4 @@ Winner: Ivory Coast
 
 ### Data visualization
 This was perfomed using Power bi, created dynamic power bi dashboards for visualizing tournament data.
-Finf attached the pbix file.
+Find attached the pbix file or interact with my dashboard https://app.powerbi.com/groups/me/reports/baf44d18-2486-43bf-b555-4a876bb52661?ctid=a29037ad-c24c-47f1-b52f-ec3218d5c4e9&pbi_source=linkShare
